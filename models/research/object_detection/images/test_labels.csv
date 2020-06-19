@@ -1,0 +1,147 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+6499_INVOICE BAJAJ_1.jpg,657,600,Customer_name,1,105,208,113
+6499_INVOICE BAJAJ_1.jpg,657,600,Customer_address,1,114,208,171
+6499_INVOICE BAJAJ_1.jpg,657,600,Company_name,225,60,429,74
+6499_INVOICE BAJAJ_1.jpg,657,600,Company_address,62,73,611,84
+6499_INVOICE BAJAJ_1.jpg,657,600,Invoice_number,450,122,622,131
+6499_INVOICE BAJAJ_1.jpg,657,600,Invoice_date,448,131,618,139
+6499_INVOICE BAJAJ_1.jpg,657,600,Table,4,189,653,412
+6499_INVOICE BAJAJ_1.jpg,657,600,Table_total,438,444,646,503
+6499_INVOICE BAJAJ_1.jpg,657,600,Total_amount,438,504,646,519
+6551 INVOICE_1.jpg,738,600,Customer_name,1,125,271,141
+6551 INVOICE_1.jpg,738,600,Customer_address,1,142,270,170
+6551 INVOICE_1.jpg,738,600,Company_name,252,76,483,89
+6551 INVOICE_1.jpg,738,600,Customer_address,73,88,681,100
+6551 INVOICE_1.jpg,738,600,Invoice_number,508,148,696,157
+6551 INVOICE_1.jpg,738,600,Invoice_date,509,156,696,165
+6551 INVOICE_1.jpg,738,600,Table,4,235,726,366
+6551 INVOICE_1.jpg,738,600,Table_total,492,408,727,480
+6551 INVOICE_1.jpg,738,600,Total_amount,492,480,726,497
+6939_INVOICE BAJAJ_1.jpg,725,600,Customer_name,2,120,221,132
+6939_INVOICE BAJAJ_1.jpg,725,600,Customer_address,1,133,230,195
+6939_INVOICE BAJAJ_1.jpg,725,600,Company_name,252,73,471,84
+6939_INVOICE BAJAJ_1.jpg,725,600,Company_address,76,83,665,98
+6939_INVOICE BAJAJ_1.jpg,725,600,Invoice_number,498,143,683,150
+6939_INVOICE BAJAJ_1.jpg,725,600,Invoice_date,496,150,686,159
+6939_INVOICE BAJAJ_1.jpg,725,600,Table,5,230,714,367
+6939_INVOICE BAJAJ_1.jpg,725,600,Table_total,483,408,713,475
+6939_INVOICE BAJAJ_1.jpg,725,600,Total_amount,482,474,713,491
+6951 invoice_1.jpg,771,600,Customer_name,1,123,287,133
+6951 invoice_1.jpg,771,600,Customer_address,1,137,284,164
+6951 invoice_1.jpg,771,600,Company_name,268,72,497,86
+6951 invoice_1.jpg,771,600,Company_address,76,86,700,97
+6951 invoice_1.jpg,771,600,Invoice_number,530,143,728,154
+6951 invoice_1.jpg,771,600,Invoice_date,529,154,725,163
+6951 invoice_1.jpg,771,600,Table,4,230,755,371
+6951 invoice_1.jpg,771,600,Table_total,514,408,758,476
+6951 invoice_1.jpg,771,600,Total_amount,515,476,759,494
+id (66).jpg,424,600,Company_name,151,33,290,48
+id (66).jpg,424,600,Company_address,116,48,318,66
+id (66).jpg,424,600,Customer_name,21,97,165,108
+id (66).jpg,424,600,Customer_address,21,106,142,142
+id (66).jpg,424,600,Invoice_number,220,86,312,99
+id (66).jpg,424,600,Invoice_date,219,98,336,112
+id (66).jpg,424,600,Table,23,170,419,399
+id (66).jpg,424,600,Total_amount,24,462,186,475
+id (66).jpg,424,600,Table_total,297,401,420,441
+id (68).jpg,424,600,Company_name,145,33,301,49
+id (68).jpg,424,600,Company_address,117,48,320,65
+id (68).jpg,424,600,Customer_name,22,91,88,106
+id (68).jpg,424,600,Customer_address,22,107,126,131
+id (68).jpg,424,600,Invoice_number,220,86,308,99
+id (68).jpg,424,600,Invoice_date,220,99,339,113
+id (68).jpg,424,600,Table,23,180,419,416
+id (68).jpg,424,600,Table_total,284,417,419,458
+id (70).jpg,424,600,Company_name,147,33,292,49
+id (70).jpg,424,600,Company_address,121,50,318,67
+id (70).jpg,424,600,Customer_name,22,84,152,111
+id (70).jpg,424,600,Customer_address,23,116,148,142
+id (70).jpg,424,600,Invoice_number,218,86,307,99
+id (70).jpg,424,600,Invoice_date,219,99,337,112
+id (70).jpg,424,600,Table,23,178,418,408
+id (70).jpg,424,600,Total_amount,21,459,193,476
+id (70).jpg,424,600,Table_total,295,410,422,451
+id (72).jpg,424,600,Customer_name,24,86,125,108
+id (72).jpg,424,600,Customer_address,23,108,126,136
+id (72).jpg,424,600,Company_name,141,33,294,48
+id (72).jpg,424,600,Company_address,127,46,316,65
+id (72).jpg,424,600,Invoice_number,220,87,305,97
+id (72).jpg,424,600,Invoice_date,220,99,340,111
+id (72).jpg,424,600,Table,22,178,420,418
+id (72).jpg,424,600,Table_total,287,417,420,440
+id (74).jpg,424,600,Company_name,149,35,294,49
+id (74).jpg,424,600,Company_address,124,49,316,65
+id (74).jpg,424,600,Customer_name,23,87,125,108
+id (74).jpg,424,600,Customer_address,24,110,128,133
+id (74).jpg,424,600,Invoice_number,218,87,305,97
+id (74).jpg,424,600,Invoice_date,218,99,335,109
+id (74).jpg,424,600,Table,24,180,420,409
+id (74).jpg,424,600,Table_total,291,410,419,450
+id (74).jpg,424,600,Total_amount,24,460,351,476
+newinvoice4.jpg,424,600,Company_name,18,35,130,43
+newinvoice4.jpg,424,600,Customer_address,15,44,90,56
+newinvoice4.jpg,424,600,Customer_name,15,90,130,99
+newinvoice4.jpg,424,600,Customer_address,18,98,182,108
+newinvoice4.jpg,424,600,Invoice_number,207,37,297,52
+newinvoice4.jpg,424,600,Invoice_date,299,37,388,54
+newinvoice4.jpg,424,600,Table,13,212,380,402
+newinvoice4.jpg,424,600,Total_amount,10,418,214,430
+newinvoice4.jpg,424,600,Table_total,177,431,379,463
+q14-1.jpg,424,600,Customer_name,314,78,399,91
+q14-1.jpg,424,600,Customer_address,213,92,401,120
+q14-1.jpg,424,600,Company_name,23,81,149,91
+q14-1.jpg,424,600,Company_address,22,93,205,133
+q14-1.jpg,424,600,Table,30,293,394,339
+q14-1.jpg,424,600,Total_amount,28,340,177,361
+q14-1.jpg,424,600,Invoice_number,267,250,397,262
+q14-1.jpg,424,600,Invoice_date,292,274,395,284
+q15-1.jpg,424,600,Customer_name,318,82,399,92
+q15-1.jpg,424,600,Customer_address,214,91,401,121
+q15-1.jpg,424,600,Company_address,23,94,197,132
+q15-1.jpg,424,600,Company_name,24,83,138,91
+q15-1.jpg,424,600,Invoice_number,272,249,395,263
+q15-1.jpg,424,600,Invoice_date,297,275,398,284
+q15-1.jpg,424,600,Table,29,293,395,344
+q15-1.jpg,424,600,Total_amount,31,346,237,368
+q16-1.jpg,424,600,Customer_name,330,81,397,91
+q16-1.jpg,424,600,Customer_address,222,91,399,122
+q16-1.jpg,424,600,Company_address,24,93,209,140
+q16-1.jpg,424,600,Company_name,23,82,131,92
+q16-1.jpg,424,600,Invoice_number,262,190,396,205
+q16-1.jpg,424,600,Invoice_date,297,217,399,230
+q16-1.jpg,424,600,Table,28,237,394,296
+q16-1.jpg,424,600,Total_amount,27,298,233,318
+q17-1.jpg,424,600,Company_name,25,82,160,92
+q17-1.jpg,424,600,Customer_address,24,93,205,140
+q17-1.jpg,424,600,Company_name,318,81,394,91
+q17-1.jpg,424,600,Customer_address,218,92,401,125
+q17-1.jpg,424,600,Invoice_number,276,194,395,204
+q17-1.jpg,424,600,Invoice_date,294,217,397,231
+q17-1.jpg,424,600,Table,28,235,394,290
+q17-1.jpg,424,600,Total_amount,31,295,198,316
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Company_name,30,35,132,40
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Company_address,28,42,170,50
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Customer_name,30,79,138,86
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Customer_address,29,87,140,98
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Invoice_number,243,33,311,46
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Invoice_date,312,32,380,46
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Table,30,161,380,417
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Table_total,213,439,382,469
+Sterling Fabory (India) Pvt. Ltd_1.jpg,424,600,Total_amount,27,425,309,438
+tax - Copy.jpg,454,600,Company_name,30,33,94,46
+tax - Copy.jpg,454,600,Customer_name,29,101,69,122
+tax - Copy.jpg,454,600,Customer_address,30,123,97,142
+tax - Copy.jpg,454,600,Invoice_number,229,33,325,54
+tax - Copy.jpg,454,600,Invoice_date,325,35,421,55
+tax - Copy.jpg,454,600,Table,32,230,420,376
+tax - Copy.jpg,454,600,Total_amount,31,388,271,411
+tax - Copy.jpg,454,600,Table_total,260,411,422,455
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Invoice_number,225,33,298,50
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Invoice_date,305,33,388,50
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Company_name,83,34,208,43
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Company_address,80,43,162,56
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Customer_name,30,95,115,103
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Customer_address,29,104,186,110
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Table,24,225,405,326
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Total_amount,22,409,187,429
+Vasav Precision Engg. Pvt. Ltd_1.jpg,424,600,Table_total,197,430,401,462

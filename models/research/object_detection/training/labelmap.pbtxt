@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'Company_name'
+}
+
+item {
+  id: 2
+  name: 'Company_address'
+}
+
+item {
+  id: 3
+  name: 'Customer_name'
+}
+
+item {
+  id: 4
+  name: 'Customer_address'
+}
+
+item {
+  id: 5
+  name: 'Invoice_number'
+}
+
+item {
+  id: 6
+  name: 'Invoice_date'
+}
+
+item {
+  id: 7
+  name: 'Table'
+}
+
+item {
+  id: 8
+  name: 'Table_total'
+}
+
+item {
+  id: 9
+  name: 'Total_amount'
+}
